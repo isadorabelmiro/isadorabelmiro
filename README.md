@@ -1,16 +1,16 @@
-## Hi there 👋
+## Sobre mim:
+- Cursando o primero ano de ciências da computação na Unifil
+- Aprendendo mais sobre o mundo da tecnologias
+- Tenho interesse em desenvolvimento de projetos
 
-<!--
-**isadorabelmiro/isadorabelmiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Objetivos:
+- Evoluir como desenvolvedora front-end
+- Compartilhar minha evolução através do GitHub
+- Participar de projetos e experiências colaborativas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente estudando:
+- Java
+- Portugol
+- C++
+- Lógica de programação
